@@ -50,7 +50,7 @@ jobs:
 
     - name: Download Timeout Script
 
-      run: Invoke-WebRequest https://raw.githubusercontent.com/Mrhaxter/Windows-CRD-1/main/timeout.ps1 -OutFile timeout.ps1
+      run: Invoke-WebRequest https://raw.githubusercontent.com/Mrspyboy/Windows-CRD-1/main/timeout.ps1 -OutFile timeout.ps1
 
     - name: Keep Alive
 
